@@ -255,6 +255,7 @@ bumps using the specified [prerelease identifier](http://semver.org/#spec-item-9
 ### `--push`
 
 Push the committed and tagged changes to the configured [git remote](https://github.com/lerna/lerna/tree/master/commands/version#--git-remote-name)
+
 Pass `--no-push` to disable.
 
 ### `--sign-git-commit`
